@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 
 export default function WelcomePage() {
   return (
-    <div className="flex min-h-screen flex-col bg-gradient-to-b from-blue-100 to-blue-200">
+    <div className="flex min-h-screen items-center flex-col bg-gradient-to-b from-blue-100 to-blue-200">
       <header className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-2">
           <Image src="/images/logo.png" alt="MediCare Logo" width={40} height={40} className="h-10 w-10" />
