@@ -61,7 +61,7 @@ export default function LoginPage() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col bg-gradient-to-b from-blue-100 to-blue-200">
+    <div className="flex min-h-screen flex-col w-full items-center bg-gradient-to-b from-blue-100 to-blue-200">
       <div className="container flex items-center justify-between py-4">
         <Link href="/" className="flex items-center text-blue-600">
           <ArrowLeft className="mr-2 h-4 w-4" />
