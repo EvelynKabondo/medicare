@@ -41,8 +41,8 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
   return (
     <div className="flex min-h-screen flex-col bg-gradient-to-b from-blue-50 to-white">
       <header className="sticky top-0 z-10 border-b bg-white shadow-sm w-full">
-        <div className="container flex h-16 items-center justify-between">
-          <div className="flex items-center gap-2">
+        <div className="container flex h-16 items-center justify-between mx-auto">
+          <div className="flex items-center gap-2 mr-auto">
             <Link href="/dashboard">
               <div className="flex items-center gap-2">
                 <Image src="/images/logo.png" alt="MediCare Logo" width={40} height={40} className="h-10 w-10" />
