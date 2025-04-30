@@ -37,7 +37,7 @@ export default function WelcomePage() {
       </main>
       <footer className="border-t border-gray-200 bg-white py-6">
         <div className="container text-center text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} MediCare. All rights reserved.
+          &copy; {new Date().getFullYear()} Mwaiwathu Private Hospital. All rights reserved.
         </div>
       </footer>
     </div>
