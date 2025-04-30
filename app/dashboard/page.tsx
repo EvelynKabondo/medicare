@@ -28,7 +28,7 @@ export default function DashboardPage() {
   return (
     <DashboardLayout>
       <div className="mb-8 flex items-center justify-between">
-        <h1 className="text-2xl font-bold">Welcome, John</h1>
+        <h1 className="text-2xl font-bold">Welcome,User</h1>
         <Button asChild className="bg-blue-600 hover:bg-blue-700">
           <Link href="/dashboard/book-appointment">Book Appointment</Link>
         </Button>
