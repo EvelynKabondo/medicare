@@ -20,7 +20,7 @@ export default function AppointmentsPage() {
   const appointments = [
     {
       id: 1,
-      doctor: "Dr. Sarah Johnson",
+      doctor: "Dr. Sarah Kapitawo",
       specialty: "General Practitioner",
       date: "2025-05-10",
       time: "10:00 AM",
@@ -29,7 +29,7 @@ export default function AppointmentsPage() {
     },
     {
       id: 2,
-      doctor: "Dr. Michael Chen",
+      doctor: "Dr. Michael Kabondo",
       specialty: "Dermatologist",
       date: "2025-04-28",
       time: "2:30 PM",
@@ -38,7 +38,7 @@ export default function AppointmentsPage() {
     },
     {
       id: 3,
-      doctor: "Dr. Emily Davis",
+      doctor: "Dr. Emily Chitsamba",
       specialty: "Orthopedic Surgeon",
       date: "2025-05-15",
       time: "11:15 AM",
@@ -47,7 +47,7 @@ export default function AppointmentsPage() {
     },
     {
       id: 4,
-      doctor: "Dr. Robert Williams",
+      doctor: "Dr. Robert Kamanga",
       specialty: "Cardiologist",
       date: "2025-03-20",
       time: "9:00 AM",
@@ -56,7 +56,7 @@ export default function AppointmentsPage() {
     },
     {
       id: 5,
-      doctor: "Dr. Lisa Thompson",
+      doctor: "Dr. Lisa Banda",
       specialty: "Gynecologist",
       date: "2025-06-05",
       time: "3:45 PM",
