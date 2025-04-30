@@ -9,7 +9,7 @@ export default function DashboardPage() {
   const appointments = [
     {
       id: 1,
-      doctor: "Dr. Sarah Johnson",
+      doctor: "Dr. Sarah Kapitawo",
       specialty: "General Practitioner",
       date: "2025-05-10",
       time: "10:00 AM",
@@ -17,7 +17,7 @@ export default function DashboardPage() {
     },
     {
       id: 2,
-      doctor: "Dr. Michael Chen",
+      doctor: "Dr. Michael Kabondo",
       specialty: "Dermatologist",
       date: "2025-04-28",
       time: "2:30 PM",

@@ -41,7 +41,7 @@ export default function AppointmentsPage() {
       doctor: "Dr. Emily Silwamba",
       specialty: "Orthopedic Surgeon",
       date: "2025-05-15",
-      time: "11:15 AM",
+      time: "11:30 AM",
       reason: "Knee pain consultation",
       status: "upcoming",
     },
