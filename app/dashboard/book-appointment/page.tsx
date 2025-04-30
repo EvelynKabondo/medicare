@@ -244,7 +244,7 @@ export default function BookAppointmentPage() {
                   <div className="text-gray-500">Time:</div>
                   <div>{formData.preferredTime}</div>
                   <div className="text-gray-500">Fee:</div>
-                  <div className="font-medium">$25.00</div>
+                  <div className="font-medium">MK10000</div>
                 </div>
               </div>
 
@@ -371,7 +371,7 @@ export default function BookAppointmentPage() {
                   <div className="font-medium text-gray-600">Time:</div>
                   <div>{formData.preferredTime}</div>
                   <div className="font-medium text-gray-600">Location:</div>
-                  <div>MediCare Clinic, 123 Health St.</div>
+                  <div>Mwaiwaithu Private Hospital, Nyambabdwe,Old Chileka Road.</div>
                   <div className="font-medium text-gray-600">Appointment ID:</div>
                   <div>
                     APT-
