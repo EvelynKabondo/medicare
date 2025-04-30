@@ -37,7 +37,7 @@ export default function RecordsPage() {
       name: "Lisinopril",
       dosage: "10mg",
       frequency: "Once daily",
-      prescribedBy: "Dr. Robert Kamang",
+      prescribedBy: "Dr. Robert Kamanga",
       startDate: "March 20, 2025",
       refillsRemaining: 2,
     },
