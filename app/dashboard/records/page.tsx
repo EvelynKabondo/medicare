@@ -298,7 +298,7 @@ export default function RecordsPage() {
                     </div>
                     <p className="text-sm text-gray-700">500mg, Three times daily for 10 days</p>
                     <p className="text-sm text-gray-500">
-                      Prescribed by Dr. Sarah Johnson on {new Date("2025-01-05").toLocaleDateString()}
+                      Prescribed by Dr. Sarah Kapitawo on {new Date("2025-01-05").toLocaleDateString()}
                     </p>
                   </div>
                 </div>
