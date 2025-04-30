@@ -38,7 +38,7 @@ export default function AppointmentsPage() {
     },
     {
       id: 3,
-      doctor: "Dr. Emily Chitsamba",
+      doctor: "Dr. Emily Silwamba",
       specialty: "Orthopedic Surgeon",
       date: "2025-05-15",
       time: "11:15 AM",
