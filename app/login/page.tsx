@@ -44,7 +44,7 @@ export default function LoginPage() {
       if (formData.username === "demo" && formData.password === "password") {
         toast({
           title: "Login successful",
-          description: "Welcome back to MediCare!",
+          description: "Welcome back to Mwaiwathu Private Hospital",
         })
         router.push("/dashboard")
       } else {
