@@ -10,7 +10,7 @@ export default function WelcomePage() {
       <header className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-2">
           <Image src="/images/logo.png" alt="MediCare Logo" width={40} height={40} className="h-10 w-10" />
-          <span className="text-xl font-bold text-blue-600">MediCare</span>
+          <span className="text-xl font-bold text-blue-600">Mwaiwathu Private Hospital</span>
         </div>
       </header>
       <main className="container flex flex-1 flex-col items-center justify-center py-12">
