@@ -30,7 +30,12 @@ export default function DashboardPage() {
       <div className="mb-8 flex items-center justify-between">
         <h1 className="text-2xl font-bold">Welcome,User</h1>
         <Button asChild className="bg-blue-600 hover:bg-blue-700">
-          <Link href="/dashboard/book-appointment">Book Appointment</Link>
+            <Link
+            href="/dashboard/book-appointment"
+            className="px-4 py-2 text-white bg-blue-600 hover:bg-blue-700"
+            >
+            Book Appointment
+            </Link>
         </Button>
       </div>
 

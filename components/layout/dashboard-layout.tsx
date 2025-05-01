@@ -46,7 +46,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
             <Link href="/dashboard">
               <div className="flex items-center gap-2">
                 <Image src="/images/logo.png" alt="MediCare Logo" width={40} height={40} className="h-10 w-10" />
-                <span className="text-xl font-bold text-blue-600">MediCare</span>
+                <span className="text-xl font-bold text-blue-600">Mwaiwathu Private Hospital</span>
               </div>
             </Link>
           </div>
@@ -103,7 +103,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
 
       <footer className="border-t border-gray-200 bg-white py-4">
         <div className="container text-center text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} MediCare. All rights reserved.
+          &copy; {new Date().getFullYear()} Mwaiwathu Private Hospital. All rights reserved.
         </div>
       </footer>
     </div>

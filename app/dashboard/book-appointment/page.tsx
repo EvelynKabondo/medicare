@@ -46,6 +46,8 @@ export default function BookAppointmentPage() {
     setCurrentStep((prev) => prev + 1)
   }
 
+  const backgroundStyle = "bg-cover bg-center bg-[url('/images/background.jpg')]"
+
   const handleBack = () => {
     setCurrentStep((prev) => prev - 1)
   }
